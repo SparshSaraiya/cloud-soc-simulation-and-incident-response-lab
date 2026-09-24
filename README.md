@@ -511,12 +511,3 @@ Vultr's browser-based console (noVNC) does not pass through the local clipboard 
 
 ---
 
-## References
-
-- [Elastic Documentation](https://www.elastic.co/docs)
-- [Mythic C2 Framework](https://github.com/its-a-feature/Mythic)
-- [Apollo Agent](https://github.com/MythicAgents/Apollo)
-- [olaf hartong Sysmon Config](https://github.com/olafhartong/sysmon-modular)
-- [osTicket](https://osticket.com)
-- [MITRE ATT&CK](https://attack.mitre.org)
-- [Vultr Cloud](https://www.vultr.com)
