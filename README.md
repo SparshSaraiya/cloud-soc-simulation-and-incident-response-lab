@@ -183,8 +183,6 @@ sudo ./elastic-agent install \
 
 > **Configuration note:** The Fleet Server host URL configured in Kibana (Fleet → Settings → Fleet Server hosts) must point to the Fleet Server's own IP and port (`https://<FLEET-SERVER-IP>:8220`), not the SIEM server. Pointing it at the wrong host causes agents to report as Unhealthy despite successful enrollment at the CLI level.
 
-![Kibana Home](attachments/fleet-server.png)
-
 ---
 
 ## Windows Endpoint Setup
@@ -256,7 +254,8 @@ With the agent running, failed and accepted SSH authentication events flow autom
 
 All three agents enrolled and reporting healthy simultaneously:
 
-![Fleet Agents Healthy](attachments/fleet-agents.png)
+![Fleet Agents Healthy](attachments/fleet-server.png)
+
 
 ---
 
