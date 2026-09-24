@@ -58,7 +58,6 @@ The adversary simulation followed a six-phase lifecycle modeled on real-world in
 ![Attack Chain](attachments/attack-chain-1.png)
 ![Attack Chain](attachments/attack-chain-2.png)
 ![Attack Chain](attachments/attack-chain-3.png)
-![Attack Chain](attachments/attack-chain-4.png)
 ![Attack Chain](attachments/attack-chain-5.png)
 
 | Phase | Tactic | Technique |
