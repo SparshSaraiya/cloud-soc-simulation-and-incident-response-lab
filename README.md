@@ -457,10 +457,12 @@ A custom authentication activity dashboard was built in Kibana visualizing SSH a
 
 The dashboard provides the kind of at-a-glance situational awareness that a SOC analyst would use to identify ongoing brute force campaigns and triage which events warrant further investigation.
 
-![Authentication Activity Dashboard](attachments/kibana-dashboard.png)
+![SSH Authentication Maps](attachments/ssh-authentication-map.png)
+![SSH Authentication Tables](attachments/ssh-authentication-table.png)
+![RDP Authentication Map](attachments/rdp-authentication-map.png.png)
+![RDP Authentication Tables](attachments/rdp-authentication-table.png)
+
 ![Apollo Process Create Detection](attachments/apollo-process-create.png)
-![RDP Failed Authentication Events](attachments/rdp-failed-events.png)
-![RDP Successful Authentication Events](attachments/rdp-successful-events.png)
 ![PowerShell and CMD Process Detections](attachments/powershell-detections.png)
 ![Sysmon Network Connection Events](attachments/network-connections.png)
 ![Windows Defender Disabled Event](attachments/defender-disabled.png)
