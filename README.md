@@ -459,9 +459,8 @@ The dashboard provides the kind of at-a-glance situational awareness that a SOC 
 
 ![SSH Authentication Maps](attachments/ssh-authentication-map.png)
 ![SSH Authentication Tables](attachments/ssh-authentication-table.png)
-![RDP Authentication Map](attachments/rdp-authentication-map.png.png)
+![RDP Authentication Map](attachments/rdp-authentication-map.png)
 ![RDP Authentication Tables](attachments/rdp-authentication-table.png)
-
 ![Apollo Process Create Detection](attachments/apollo-process-create.png)
 ![PowerShell and CMD Process Detections](attachments/powershell-detections.png)
 ![Sysmon Network Connection Events](attachments/network-connections.png)
