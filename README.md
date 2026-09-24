@@ -522,3 +522,4 @@ Vultr's browser-based console (noVNC) does not pass through the local clipboard 
 
 ---
 
+This project has now since been decommissioned. This repository serves to showcase the entire development lifecycle of the Cloud-Native SOC Lab: Elastic SIEM, Adversary Simulation & Automated Incident Response project.
