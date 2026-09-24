@@ -95,6 +95,8 @@ Two firewall groups enforced perimeter access control using a default-deny basel
 - TCP 9200 — Elasticsearch API (unrestricted for agent ingestion)
 - All other inbound: Drop
 
+![VPC and Firewall Rules](attachments/elk-firewall.png)
+
 **Mythic Firewall Group** (applied to C2 server):
 - TCP 1:65535 — analyst workstation
 - TCP 1:65535 — SIEM server
@@ -104,7 +106,7 @@ Two firewall groups enforced perimeter access control using a default-deny basel
 - HTTP 80 — unrestricted
 - All other inbound: Drop
 
-![VPC and Firewall Rules](attachments/vpc-firewall.png)
+![VPC and Firewall Rules](attachments/mythic-firewall.png)
 
 ---
 
